@@ -60,8 +60,7 @@ stored in GitHub Classroom.
 
 ## Submission
 
-On Canvas, submit the URL for your website, which should be running on
-your DigitalOcean server.
+On Canvas, submit the URL for your website, which should be running on Firebase.
 
 ## Rubric for Grading
 
