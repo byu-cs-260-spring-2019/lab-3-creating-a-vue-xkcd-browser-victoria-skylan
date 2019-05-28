@@ -2,16 +2,59 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     padding: 20px 100px 0px 100px;
-    background: #f3f3f3;
+    background: #464A61
 }
 
 button {
     font-family: 'Montserrat', sans-serif;
     font-size: 1em;
+	background: #8B9E88;
+	padding: 3px 6px;
+	border: #566653;
+	border: 2px solid #384336;
 }
 
 textarea {
     width: 100%;
     max-width: 500px;
     height: 100px;
+	padding-bottom: 3px;
 }
+#title {
+	background: #8E7B5C;
+	color: #D9D6D6;
+	font-size: 30px;
+	padding: 20px;
+	text-align: center;
+	font-family: 'Montserrat';
+	border: #D9D6D6 solid 2px;
+}
+#results {
+	background: #C5C5C5;
+}
+#comicTitle {
+	border: #A38450 solid 2px;
+	padding-left: 40px;
+}
+#app {
+	background: #F0F0F0;
+	padding: 50px;
+}
+#theButtons {
+	text-align: center;
+}
+#comicTag{
+	padding-left: 10px;
+}
+#commentSection {
+	margin-top: 20px;
+	border: #A38450 solid 2px;
+	padding-left: 40px;
+	padding-bottom: 30px;
+}
+#theLink {
+	margin-top: 40px;
+	text-align: center;
+}
+/* margin: 0 auto;
+width: 200px  */
